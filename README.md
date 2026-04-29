@@ -200,4 +200,4 @@ Key decisions:
 
 ---
 
-*HELL VERDICT — © 2026 Neofilisoft / Studio Balmung*
+*HELL VERDICT © 2026 Neofilisoft / Studio Balmung*
