@@ -1,0 +1,11 @@
+Place SDF font files here:
+  hell_verdict.png   — grayscale SDF atlas (R channel = distance)
+  hell_verdict.json  — glyph metrics (msdf-atlas-gen format)
+
+Generate with:
+  msdf-atlas-gen -font your_font.ttf -type sdf -format png \
+    -imageout hell_verdict.png -json hell_verdict.json \
+    -size 48 -pxrange 4
+
+Or use any Hiero-compatible JSON + PNG atlas.
+The renderer falls back to a built-in ASCII grid if these are missing.
