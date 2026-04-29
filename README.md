@@ -11,7 +11,7 @@ A Doom-style first-person shooter — 5 levels of escalating demon carnage.
 | Layer | Technology |
 |---|---|
 | Language | C++20 + C# (.NET 10 / Mono) |
-| Engine | Balmung Engine 2.3 (in-house, Neofilisoft) |
+| Engine | Balmung Engine 2.3 (In-house, Neofilisoft) |
 | ECS | EnTT (header-only) |
 | Math | GLM (column-major, matches Vulkan) |
 | Windowing | SDL2 |
