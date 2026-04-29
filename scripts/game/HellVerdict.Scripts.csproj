@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Target .NET 10 + produce Mono-compatible IL -->
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>HellVerdict.Scripts</AssemblyName>
+    <RootNamespace>HellVerdict.Scripts</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <LangVersion>13</LangVersion>
+    <!-- Output goes to scripts/ where main.cpp expects it -->
+    <OutputPath>../scripts</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="HellScriptContext.cs" />
+  </ItemGroup>
+
+  <!-- 
+    Balmung.Scripting.dll (IBalmungScriptContext, IScriptHost, ScriptEvent)
+    is provided by Balmung Engine 2.3. Reference it here.
+    The stub declarations inside HellScriptContext.cs are for IDE only.
+  -->
+  <!--
+  <ItemGroup>
+    <Reference Include="Balmung.Scripting">
+      <HintPath>../../balmung-engine/bin/Balmung.Scripting.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  -->
+
+</Project>
