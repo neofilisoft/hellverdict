@@ -4,7 +4,7 @@
 
 **Developer:** Studio Balmung  
 **Version:** 1.2.4  
-**Engine:** Unity 6 (Unity 6000.4.3f1)
+**Engine:** Unity 6 (6000.4.3f1)
 
 ---
 
