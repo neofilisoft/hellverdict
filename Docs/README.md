@@ -2,7 +2,7 @@
 
 **Hell Verdict** is a retro-style first-person shooter inspired by classic Doom, built entirely in Unity. It features procedurally generated maze levels, 2D sprite enemies in a 3D environment (2.5D style), and progressively challenging stages.
 
-![Screenshot](Docs/Screenshot (0).png)
+![Screenshot](Screenshot%20(0).png)
 
 **Developer:** Studio Balmung  
 **Version:** 1.2.4  
