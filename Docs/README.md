@@ -6,7 +6,7 @@
 
 **Developer:** Studio Balmung  
 **Version:** 1.2.4  
-**Engine:** Unity 6 (6000.4.3f1)
+**Engine:** Unity
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Component           | Technology                                      |
 |---------------------|------------------------------------------------|
-| **Engine**          | Unity 6 (6000.x LTS)                          |
+| **Engine**          | Unity 6 (6000.4.3f1 LTS)                          |
 | **Language**        | C# 12                                          |
 | **Runtime**         | CoreCLR (.NET)                                 |
 | **Architecture**    | Object-Oriented Programming (OOP/MonoBehaviour)|
