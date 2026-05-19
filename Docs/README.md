@@ -87,7 +87,7 @@ Hell Verdict/
 | **Heal**         | F                    |
 | **Toggle Minimap** | M                  |
 | **Pause / Menu** | Enter                |
-| **Options**      | Escape               |
+| **Options**      | ESC                  |
 
 ### Objective
 
