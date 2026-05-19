@@ -165,4 +165,4 @@ The gameplay HUD displays:
 
 ## License
 
-Hell Verdict © Studio Balmung. All rights reserved.
+Hell Verdict © Neofilisoft / Studio Balmung. All rights reserved.
