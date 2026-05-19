@@ -82,7 +82,6 @@ Hell Verdict/
 | **Strafe Right** | D / Right Arrow      |
 | **Look Around**  | Mouse Movement       |
 | **Shoot**        | Left Mouse Button    |
-| **Reload**       | R                    |
 | **Jump**         | Space                |
 | **Sprint**       | Hold Left Shift (while moving forward) |
 | **Heal**         | F                    |
