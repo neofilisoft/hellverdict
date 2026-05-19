@@ -21,7 +21,7 @@
 | **Graphics API**    | DirectX 12 (Windows default)                   |
 | **Render Pipeline** | Universal Render Pipeline (URP)                |
 | **Input System**    | Unity New Input System (`UnityEngine.InputSystem`) |
-| **UI Framework**    | Unity UI (uGUI) — runtime-generated via code   |
+| **UI Framework**    | Unity UI (uGUI) - runtime-generated via code   |
 | **Level Generation**| Procedural maze generation (custom algorithm)  |
 | **Build Target**    | Windows x86_64 standalone                      |
 
