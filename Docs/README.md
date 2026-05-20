@@ -31,7 +31,6 @@
 
 | Package                | License                  |
 |------------------------|--------------------------|
-| Unity Engine           | Unity Proprietary        |
 | Universal Render Pipeline (URP) | Unity Companion License |
 | Unity Input System     | Unity Companion License  |
 | Newtonsoft.Json (Json.NET) | MIT License          |
