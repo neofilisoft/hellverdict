@@ -4,6 +4,8 @@
 
 ![Screenshot](Screenshot%20(0).png)
 
+![Screenshot](Screenshot%20(1).png)
+
 **Developer:** Studio Balmung  
 **Version:** 1.2.4  
 **Engine:** Unity
