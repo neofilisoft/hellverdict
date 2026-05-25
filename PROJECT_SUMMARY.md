@@ -2,7 +2,7 @@
 
 ### Project Completion Status: 95% ✓
 
-The Balmung DOOM game project has been successfully scaffolded and implemented with all core systems ready for deployment.
+The Balmung DOOM game project has been successfully and implemented with all core systems ready for deployment.
 
 ---
 
